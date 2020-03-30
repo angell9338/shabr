@@ -10,7 +10,7 @@
 .imgbc{
 background-image: url('img/hot-air-balloon-sky.jpg');
   background-repeat: no-repeat;
-  background-position: center;
+  /*background-position: center;*/
   background-size:100%;
   
 }
@@ -41,11 +41,16 @@ color:black;
 }
 }
 
-
+.sec3{
+    background:grey;
+    text-align:center;
+    
+}
 
 
 .car{
-    padding-top:2vw;
+    padding-top:1vw;
+    background:black;
 }
 
 .card-title{
@@ -62,22 +67,21 @@ color:black;
 @media(max-width:  699px){
 .body-text{
     padding:1;
-    font-size:8px;}
-    
-
-@media(max-width:  699px){
-.body-text2{
-    padding:1;
     font-size:8px;
+
+}}
+
+.text{
+    padding:1rem;
     
 }
-}
-@media(min-width:  700px){
-.body-text2{
-    font-size:15px;
-    right:40px;
-}
-}
 
-
-
+.sec4{ 
+   width: auto;
+   height: auto;
+background-color: blue;
+overflow:auto;
+}
+    
+    
+   
