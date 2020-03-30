@@ -53,19 +53,17 @@ color:black;
     
 }
 @media(min-width:  700px){
-/*.body-text{*/
-/*    font-size:15px;*/
+.body-text{
+    font-size:15px;
    
-/*}*/
-/*}*/
-
-/*@media(max-width:  699px){*/
-/*.body-text{*/
-/*    padding:1;*/
-/*    font-size:8px;*/
-    
-/*}*/
 }
+}
+
+@media(max-width:  699px){
+.body-text{
+    padding:1;
+    font-size:8px;}
+    
 
 @media(max-width:  699px){
 .body-text2{
@@ -80,3 +78,6 @@ color:black;
     right:40px;
 }
 }
+
+
+
