@@ -76,12 +76,11 @@ color:black;
     
 }
 
-.sec4{ 
-   width: auto;
-   height: auto;
-background-color: blue;
-overflow:auto;
-}
+/*.sec4{ */
+/*   width: auto;*/
+/*   height: auto;*/
+
+/*}*/
 .word{
    text-align:center;
    font-family: sans-serif;
