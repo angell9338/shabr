@@ -42,15 +42,16 @@ color:black;
 }
 
 .sec3{
-    background:grey;
+    background-color: #2b2d2f;
     text-align:center;
     
 }
 
 
 .car{
-    padding-top:1vw;
-    background:black;
+    
+    border-style: solid ;
+    border-width: 5px;
 }
 
 .card-title{
@@ -69,10 +70,12 @@ color:black;
     padding:1;
     font-size:8px;
 
-}}
+}
+ }
 
 .text{
-    padding:1rem;
+    padding:1px;
+    
     
 }
 
@@ -87,6 +90,18 @@ color:black;
    font-size: 35px;
    
    
+   
     
 }    
+
+.text1{
+    color:white;
+    
+    
+}
+/*.card-deck{*/
+/*   padding:2px;*/
+/*   margin:2px;*/
+    
+/*}*/
 
